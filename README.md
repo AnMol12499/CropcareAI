@@ -77,8 +77,6 @@ Note that, for now it only supports following crops
 
 ## How to run locally 🛠️
 - Before the following steps make sure you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/) or [miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system
-- Clone the complete project with `git clone https://github.com/Gladiator07/Harvestify.git` or you can just download the code and unzip it
-- **Note:** The master branch doesn't have the updated code used for deployment, to download the updated code used for deployment you can use the following command
   ```
   ❯ git clone -b deploy https://github.com/AnMol12499/CropcareAI.git
   ```
@@ -122,8 +120,6 @@ This was my first big project so there are lot of things to improve upon
 - Additional plant images can be collected to make the disease detection part more robust and generalized :face_with_head_bandage:
 - Modularized code can be written instead of writing in Jupyter Notebooks (will follow this in upcoming projects)
 
-## Credits 💳
-This project is heavily inspired from **[this GitHub repository](https://github.com/7NNS7/Recommendation-System-for-Farming)** (especially the crop recommendation and fertilizer recommendation part). This project is an extended version of the above mentioned project. Please star the mentioned repo.
 
 ## License 📝
 This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com/AnMol12499/CropcareAI/blob/main/LICENSE)
